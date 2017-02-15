@@ -1,2 +1,3 @@
 # hello-world
-new repository
+
+Patty here...this is my first GitHut gig.
